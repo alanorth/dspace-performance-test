@@ -1,4 +1,4 @@
-# dspace-performance-test
+# JMeter DSpace Performance Test
 ## Prerequisites
 - JMeter --- an open-source, Java-based load testing application created and maintained by Apache. Can be downloaded from the [Apache JMeter website](https://jmeter.apache.org/download_jmeter.cgi).
 - Working knowledge of JMeter --- Apache provides fairly extensive documentation in their [User's Manual](https://jmeter.apache.org/usermanual/index.html). The first three chapters should provide a sufficient baseline knowledge to begin creating and running load tests. We edited our testing plans on a Windows desktop and used the included jmeterw.cmd GUI.
